@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepikashini
-- 👀 I’m interested in UI/UX Designing 
-- 🌱 I’m currently learning Adobe XD and Reat JS
+- 👀 I’m interested in web development & UI/UX Designing 
+- 🌱 I’m currently learning Reat JS & UI/UX Designing
 - 📫 How to reach me deepikashiniv@gmail.com
 
 <!---
