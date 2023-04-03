@@ -1,0 +1,50 @@
+.shimmer-container{    
+    display: grid;     
+    grid-template-columns: auto auto auto auto;
+}
+.shimmerSearch{
+    display: block;
+    background-color: rgb(212, 211, 211);
+    width: 30%;
+    height: 32px;
+    margin-bottom: 12px;
+    margin-top: 31px;
+    margin-left: 482px;
+    border-radius: 20px;
+}
+
+.shimmerChild{
+    padding: 20px;
+}
+
+.shimmerImage{
+    display: block;
+    padding-bottom: 12.1875rem;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: rgb(212, 211, 211);
+}
+
+.shimmerTitle{
+    display: block;
+    padding-bottom: 1rem;
+    margin-bottom: 20px;
+    width: 70%;
+    background-color: rgb(212, 211, 211);
+}
+
+.shimmerTime-mins {
+    display: block;
+    padding-bottom: 1rem;
+    margin-bottom: 20px;
+    width: 40%;
+    background-color: rgb(212, 211, 211);
+}
+
+.shimmerCuisines {
+    display: block;
+    padding-bottom: 1rem;
+    margin-bottom: 20px;
+    width: 40%;
+    background-color: rgb(212, 211, 211);
+}

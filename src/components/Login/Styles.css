@@ -1,0 +1,67 @@
+.login_container{
+    display: flex;
+    flex-direction: row;
+}
+.login-img{
+    margin: 0px;
+    width: 640px;
+    height: 633px;
+}
+
+.login-form{
+    text-align: center;
+    width: 640px;
+    font-family: 'Lobster', cursive;
+    color: orange;
+}
+           
+.welcome_greeting{
+    text-align: center;
+    color: orange;
+    font-family: 'Lobster', cursive;
+    
+}
+
+.greeting > h2{
+    margin-top: 50px;
+}
+
+Form{
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.field {
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 25px;
+    border-bottom: 2px solid gainsboro;
+    
+}
+
+.form-button{
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 60px;
+    height: 40px;
+    border: none;
+    font-family: 'Lobster', cursive;
+    background-color: orange;
+    color: white;
+    font-size: 14px;
+    font-weight:bold;
+    border-radius: 30px 30px 30px 30px;
+    text-align: center;
+}
+
+.forgot_password{
+    color:rgb(190, 189, 189);
+    text-decoration: underline !important;
+    text-align: end;
+    margin-bottom: 14px;
+}
